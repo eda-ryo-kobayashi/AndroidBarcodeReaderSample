@@ -1,0 +1,2 @@
+# AndroidBarcodeReaderSample
+AndroidでMobile Vision APIを利用してバーコードを読み取る
